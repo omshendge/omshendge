@@ -37,6 +37,7 @@
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
@@ -65,8 +66,6 @@
 ### 🔐 [Random Password Generator](https://github.com/omshendge/Passwordgenerator)  
 **Tech Stack:** React.js  
 ✅ Generates secure passwords with custom options (uppercase, lowercase, numbers, symbols)  
-
----
 
 ---
 
