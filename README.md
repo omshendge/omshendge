@@ -134,14 +134,6 @@ CGPA **9.29 / 10**
 - **Python for Beginners** – Simplilearn
 - **Getting Started with Docker** – Simplilearn
 
----
 
-# 📈 GitHub Stats
-
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omshendge&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omshendge&layout=compact&theme=tokyonight)
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=100&section=footer)
